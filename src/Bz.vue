@@ -43,23 +43,9 @@
           pagination: '.swiper-pagination'
         }
         setTimeout(function () {
-          let a = Swiper('.swiper-container', conf)
-          console.log(a)
+          Swiper('.swiper-container', conf)
         }, 3)
       }
     }
   }
 </script>
-<style>
-  .img.slide {
-    width: 100%;
-  }
-  .white-bz {
-    background-color: white;
-  }
-  .swiper-pagination {
-    top: 85%;
-    .swiper-pagination-bullet{ opacity: 1; }
-    .swiper-pagination-bullet-active { background: white; opacity: 1; }
-  }
-</style>

@@ -24,6 +24,8 @@
         desc: '登录页面',
         datas: [
           {url: '/bigzhu', src: 'https://m.gotosiam.com/static/img/home-slide-01.8e9068a.jpg'},
+          {url: '/bigzhu', src: 'https://m.gotosiam.com/static/img/home-slide-01.8e9068a.jpg'},
+          {url: '/bigzhu', src: 'https://m.gotosiam.com/static/img/home-slide-01.8e9068a.jpg'},
           {url: '/bigzhu', src: 'https://m.gotosiam.com/static/img/home-slide-02.f47b925.jpg'}
         ],
         parms: [

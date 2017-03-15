@@ -1,0 +1,32 @@
+{
+  "name": "bz-swiper",
+  "version": "2.0.0",
+  "description": "bz-swiper",
+  "main": "src/Bz.vue",
+  "keywords": [
+    "vue",
+    "component",
+    "bigzhu"
+  ],
+  "author": "bigzhu <vermiliondun@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigzhu/bz-swiper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigzhu/bz-swiper/issues"
+  },
+  "homepage": "https://github.com/bigzhu/bz-swiper#readme",
+  "files": [
+    "src/Bz.vue",
+    "src/assets"
+  ],
+  "scripts": {
+    "dev": "node build/dev-server.js",
+    "test": ""
+  },
+  "dependencies": {
+    "swiper": "^3.4.2"
+  },
+  "devDependencies": {}
+}

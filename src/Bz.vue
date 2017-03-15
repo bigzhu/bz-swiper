@@ -37,9 +37,9 @@
       initSwiper: function () {
         let conf = {
           speed: 1400,
-          spaceBetween: 100,
           autoplay: 3000,
           loop: true,
+          autoHeight: true,
           pagination: '.swiper-pagination'
         }
         setTimeout(function () {

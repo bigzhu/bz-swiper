@@ -39,7 +39,6 @@
           speed: 1400,
           autoplay: 3000,
           loop: true,
-          autoHeight: true,
           pagination: '.swiper-pagination'
         }
         setTimeout(function () {
